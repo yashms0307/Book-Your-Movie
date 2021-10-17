@@ -29,7 +29,7 @@ When someone buy a Ticket It should ask me row number and column number for the 
 If someone choose Yes, it should take details of Name,Gender,Age and Phone No.
 Finally It should print Booked Successfully.
 
-3. Statistics
+3.Statistics
 --------------------------------------------
 When someone choose the 3rd option for statistics.
 It should show the following things:
@@ -41,7 +41,7 @@ The ticket price is determined by the following rules:
 If the total number of seats in the screen room is not more than 60, then the price of each ticket is 10 dollars.
 In a larger room, the tickets are 10 dollars for the front half of the rows and 8 dollars for the back half. Please note that the number of rows can be odd, for example, 9 rows. In this case, the first half is the first 4 rows, and the second half is the rest 5 rows.
 
-4. Show booked Tickets User Info
+4.Show booked Tickets User Info
 -----------------------------------------------
 When someone choose the 4th option:
 It should ask the row and col number.
