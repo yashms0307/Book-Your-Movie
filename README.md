@@ -41,4 +41,4 @@ When someone choose the 4th option:
 It should ask the row and col number.
 If that row,col is booked show the Name,gender,age,Ticket Price and Phone No
 
-Thank You!
+Thank You !
